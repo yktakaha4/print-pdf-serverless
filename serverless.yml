@@ -1,4 +1,4 @@
-service: print-pdf-server
+service: print-pdf-serverless
 
 provider:
   name: aws
